@@ -67,7 +67,7 @@ width:1000px;
 /* border:1px solid; */
 background-color:white;
 margin-top:5px;
-background-image: url("../images/sofa.jpeg");
+background-image: url("./images/sofa.jpeg");
 background-size:cover;
 
 }
@@ -109,7 +109,7 @@ border-radius:0px 0px 0px 20px;
 height:200px;
 width:700px;
 /* background-color:red; */
-background-image: url("../images/girl.jpeg");
+background-image: url("./images/girl.jpeg");
 background-size: cover;
 }
 .right
@@ -156,7 +156,7 @@ span
     height: 160px;
     width: 300px;
     /* border: 1px solid; */
-    background-image: url("../images/gallery in one image.jpeg");
+    background-image: url("./images/gallery in one image.jpeg");
     background-size: cover;
 }
 
